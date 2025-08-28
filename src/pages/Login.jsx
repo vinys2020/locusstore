@@ -5,7 +5,7 @@ import { signInWithPopup, signOut } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
 import { doc, getDoc, setDoc, onSnapshot, collection } from "firebase/firestore";
 import "bootstrap/dist/css/bootstrap.min.css";
-import logo from "../assets/nuevologolocus.png";
+import logo from "../assets/sinfondologo.png";
 import googleLogo from "../assets/google-logo-NePEveMl.webp";
 
 import "./Login.css"; // Estilos personalizados
